@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+
+  width: 700px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.wrapper {
+  width: 550px;
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
